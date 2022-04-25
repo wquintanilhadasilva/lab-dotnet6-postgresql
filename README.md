@@ -15,3 +15,5 @@ dotnet run
 # Para acessar as URLs e testar:
 
 [https://localhost:7019/swagger/index.html](https://localhost:7019/swagger/index.html)
+
+<sub><sup>A porta 7019 pode mudar dependendo de onde estiver rodando</sup></sub>
