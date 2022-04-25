@@ -17,3 +17,6 @@ dotnet run
 [https://localhost:7019/swagger/index.html](https://localhost:7019/swagger/index.html)
 
 <sub><sup>A porta 7019 pode mudar dependendo de onde estiver rodando</sup></sub>
+
+## Material de apoio:
+[https://www.youtube.com/watch?v=Zd3I269cYIA](https://www.youtube.com/watch?v=Zd3I269cYIA)
