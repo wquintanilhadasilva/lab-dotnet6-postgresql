@@ -11,3 +11,7 @@ dotnet restore
 ```
 dotnet run
 ```
+
+# Para acessar as URLs e testar:
+
+[https://localhost:7019/swagger/index.html](https://localhost:7019/swagger/index.html)
