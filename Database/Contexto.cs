@@ -16,7 +16,7 @@ public class Contexto: DbContext {
                 entityBuilder.Property(m => m.Id)
                     .HasColumnName("id")
                     .ValueGeneratedOnAdd();
-                entityBuilder.Property(m => m.Horario).HasColumnType("datetime").HasColumnName("time");
+                entityBuilder.Property(m => m.Horario).HasColumnName("time");
                 entityBuilder.Property(m => m.Saudacao).HasColumnName("salutation");
                 entityBuilder.ToTable("mensagens");
             }
