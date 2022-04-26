@@ -7,7 +7,7 @@ builder.Services.AddEndpointsApiExplorer();
 
 builder.Services.AddEntityFrameworkNpgsql()
     .AddDbContext<Contexto>(options => 
-        options.UseNpgsql("Host=localhost;Port=15432;Pooling=true;Database=APP-API;User Id=postgres;Password=123456;")
+        options.UseNpgsql("Host=localhost;Port=15432;Pooling=true;Database=public;User Id=postgres;Password=123456;")
     );
 
 // Add services to the container.
